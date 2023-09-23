@@ -1,0 +1,42 @@
+#t2 {
+    color:rgb(71, 99, 190);}
+    #t3 {
+        color:rgb(71, 99, 190)
+    }
+    html, body{
+        margin: 0;
+    }
+    #imagem_fundo{background: url("paper_textura.JPG");}
+    height: 100%;
+    #t4{color:rgb(71, 99, 190)}
+    #t5{color:rgb(71, 99, 190)}
+    .icone {
+        width: 51px;
+    }
+    #projeto{
+        background-color: rgb(131, 128, 128);
+    padding: 20px
+    }
+    #selecao {
+padding: 20px
+    }
+    #ecopontos{
+        background-color: beige;
+        padding: 20px;
+    }
+    .destaque{
+        background-color: whitesmoke;
+    }
+    .ordem{
+        background-color: white;
+        padding: 20px;
+    }
+    .logo{
+        width: 70%;
+    }
+#creditos{
+    
+    padding: 20px;
+}
+
+    
